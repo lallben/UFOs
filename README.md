@@ -9,7 +9,7 @@ This project is for Dana, a data journalist who wants to write about a topic tha
 
 ## End Result:
 The coding has been finished and the webpage can be viewed [at this link](https://lallben.github.io/UFOs/)<br>
-Here is what the webpage looks like:
+Here is what the webpage looks like - please note that the filters come prefilled with 'suggestions' to guide the user.
 ![webpage](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_default.png)
 
 ## Quick Guide on how to use the webpage:
