@@ -11,3 +11,8 @@ This project is for Dana, a data journalist who wants to write about a topic tha
 The coding has been finished and the webpage can be viewed [at this link](https://lallben.github.io/UFOs/)<br>
 Here is what the webpage looks like:
 ![webpage](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_default.png)
+
+## Quick Guide on how to use the webpage:
+### Refreshing the Page
+The heading 'UFO sightings' as marked in the image below cna be clicked at any time to refresh the data and begin a new search.
+![webpage_refresh](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_refresh_page.png)
