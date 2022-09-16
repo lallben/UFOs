@@ -29,6 +29,13 @@ The webpage is enabled to search using more than one parameter at one time. Here
 - City 'el cajon' 
 - State:'ca' 
 - Country:'us' 
-- Shape: 'triangle'
+- Shape: 'triangle'<br>
 ![webpage_all](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_all_search.png)
 
+## Summary
+### Drawbacks & suggestions for Improvements
+- I can see is that the webpage needs a refresh button. Clicking on the 'UFO Sightings' title is not very intuitive.
+- It would be great to add a 'Search' button that helps the user to complete the various criteria as opposed to the page refreshing on its own.
+- A date range would be super useful. In fact right now its hard for the user to ascertain the period that can be queried for.
+- The inputs are case sensitive right now and that is a pain. For example 'el cajon' cannot be entered 'El Cajon' - it would not yield the desired results.
+- Comments from users may also be another development idea in the by and by.
