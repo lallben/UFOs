@@ -9,7 +9,7 @@ This project is for Dana, a data journalist who wants to write about a topic tha
 
 ## End Result:
 The coding has been finished and the webpage can be viewed [at this link](https://lallben.github.io/UFOs/)<br>
-Here is what the webpage looks like - please note that the filters come prefilled with 'suggestions' to guide the user.
+Here is what the webpage looks like - please note that the filters are prefilled with 'suggestions' to guide the user.
 ![webpage](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_default.png)
 
 ## Quick Guide on how to use the webpage:
@@ -18,5 +18,7 @@ The heading 'UFO sightings' as marked in the image below cna be clicked at any t
 ![webpage_refresh](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_refresh_page.png)
 ### Searching by a single parameter:
 You can use the search inputs to search by single or multiple parameters.<br>
-Put in the criteria and press 'Tab' - the table will refresh with the results. Here is an example of results for a search in the 'Shape' criteria for 'light'.
+Put in the criteria and press 'Tab' - the table will refresh with the results. Here is an example of results for a search in the 'Shape' criteria for 'light':
 ![webpage_shape](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_shape_search.png)
+Here is another example of results for a search in the 'City' criteria for 'el cajon':
+![webpage_shape](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_city_search.png)
