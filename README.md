@@ -21,4 +21,9 @@ You can use the search inputs to search by single or multiple parameters.<br>
 Put in the criteria and press 'Tab' - the table will refresh with the results. Here is an example of results for a search in the 'Shape' criteria for 'light':
 ![webpage_shape](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_shape_search.png)
 Here is another example of results for a search in the 'City' criteria for 'el cajon':
-![webpage_shape](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_city_search.png)
+![webpage_city](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_city_search.png)
+
+### Searching by multiple parameters:
+The webpage is enabled to search using more than one parameter at one time. Here is an example of results using all the criteria:
+![webpage_all](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_all_search.png)
+
