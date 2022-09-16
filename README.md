@@ -24,6 +24,11 @@ Here is another example of results for a search in the 'City' criteria for 'el c
 ![webpage_city](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_city_search.png)
 
 ### Searching by multiple parameters:
-The webpage is enabled to search using more than one parameter at one time. Here is an example of results using all the criteria - Date '1/1/2010'; City 'el cajon'; State:'ca'; Country:'us'; Shape: 'triangle'
+The webpage is enabled to search using more than one parameter at one time. Here is an example of results using all the criteria - 
+- Date '1/1/2010' 
+- City 'el cajon' 
+- State:'ca' 
+- Country:'us' 
+- Shape: 'triangle'
 ![webpage_all](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_all_search.png)
 
