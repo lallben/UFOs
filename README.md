@@ -16,3 +16,7 @@ Here is what the webpage looks like:
 ### Refreshing the Page
 The heading 'UFO sightings' as marked in the image below cna be clicked at any time to refresh the data and begin a new search.
 ![webpage_refresh](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_refresh_page.png)
+### Searching by a single parameter:
+You can use the search inputs to search by single or multiple parameters.<br>
+Put in the criteria and press 'Tab' - the table will refresh with the results. Here is an example of results for a search in the 'Shape' criteria for 'light'.
+![webpage_shape](https://github.com/lallben/UFOs/blob/main/static/images/Webpage_shape_search.png)
